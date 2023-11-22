@@ -2,7 +2,7 @@
 name: top100coders | Submission Review
 about: Template for mentors to conduct a developer-focused review of hackathon submissions.
 title: "[Submission Review]"
-labels: ''
+labels: Project Review
 assignees: ''
 
 ---
