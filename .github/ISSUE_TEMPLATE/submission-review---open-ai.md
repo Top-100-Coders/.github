@@ -1,7 +1,7 @@
 ---
-name: top100coders | Submission Review
+name: Submission Review | Open AI
 about: Template for mentors to conduct a developer-focused review of hackathon submissions.
-title: "[Submission Review]"
+title: "[ Submission Review | Open AI ]"
 labels: Project Review
 assignees: ''
 
